@@ -11,6 +11,6 @@ Right now i'm studying **DSA** with C and planning to do Python and Java after t
 **Languages that i'm currently learning:** <br>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,python,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java" />
   </a>
 </p>
