@@ -30,9 +30,3 @@ Feel free to leave feedback on my code, and share suggestions on how I can impro
 - **Currently:** Mastering Java OOP concepts and best practices
 - **Next Steps:** Spring ecosystem and database integration
 - **Goals:** Build full-stack applications and explore game development
-
-##
-
-### **Contact**
-- **LinkedIn:** [Jorge Henrique](https://www.linkedin.com/in/joojhenrique/)
-- **Email:** jh_cartaxo@hotmail.com
