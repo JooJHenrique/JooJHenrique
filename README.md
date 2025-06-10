@@ -2,7 +2,7 @@
 
 I'm a **System Analysis and Development** student trying to finding my path in **software and game development**. Currently diving deep into programming fundamentals and exploring different technologies to build solid foundations for my future career.
 
-Feel free to leave feedback on my code, and share suggestions on how I can improve!
+Feel free to leave a feedback on my code, and share suggestions on how I can improve!
 
 ### **Current Focus**
 - **Deepening Java knowledge** with Object-Oriented Programming (OOP)
