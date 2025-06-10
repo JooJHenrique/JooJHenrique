@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=435&lines=Hello+there%2C+i'm+Jorge+Henrique!)](https://git.io/typing-svg)
 
-I'm a **System Analysis and Development** student trying to finding my path in **software and game development**. Currently diving deep into programming fundamentals and exploring different technologies to build solid foundations for my future career.
+I'm a **System Analysis and Development** student trying to find my path in **software and game development**. Currently diving deep into programming fundamentals and exploring different technologies to build solid foundations for my future career.
 
 Feel free to leave a feedback on my code, and share suggestions on how I can improve!
 
