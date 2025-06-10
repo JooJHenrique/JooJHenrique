@@ -15,7 +15,7 @@ Feel free to leave a feedback on my code, and share suggestions on how I can imp
 **Languages & Core Technologies:**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,git" />
+    <img src="https://skillicons.dev/icons?i=java,lua,html,css,js,git" />
   </a>
 </p>
 
