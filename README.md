@@ -20,10 +20,6 @@ Feel free to leave a feedback on my code, and share suggestions on how I can imp
         <br>Java
       </td>
       <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=lua" alt="icon-Lua" width="50" height="50" />
-        <br>Lua
-      </td>
-      <td align="center" width="90">
           <img src="https://skillicons.dev/icons?i=html" alt="icon-HTML" width="50" height="50" />
         <br>HTML
       </td>
@@ -31,12 +27,12 @@ Feel free to leave a feedback on my code, and share suggestions on how I can imp
           <img src="https://skillicons.dev/icons?i=css" alt="icon-css" width="50" height="50" />
         <br>CSS
       </td>
-    </tr>
-    <tr>
       <td align="center" width="90">
           <img src="https://skillicons.dev/icons?i=js" alt="icon-js" width="50" height="50" />
         <br>JavaScript
       </td>
+    </tr>
+    <tr>
       <td align="center" width="90">
           <img src="https://skillicons.dev/icons?i=git" alt="icon-git" width="50" height="50" />
         <br>Git
