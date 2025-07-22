@@ -84,7 +84,7 @@ Currently diving deep into programming fundamentals and exploring different tech
   </tr>
 </table>
 
-<hr>
+<h2></h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JooJHenrique/JooJHenrique/output/github-contribution-grid-snake-dark.svg">
