@@ -5,10 +5,10 @@
 </h2>
 
 
-<p align="center">I'm a <strong>System Analysis and Development</strong> student trying to find my path in <strong>software and game development</strong>.<br>
+<p>I'm a <strong>System Analysis and Development</strong> student trying to find my path in <strong>software and game development</strong>.
 Currently diving deep into programming fundamentals and exploring different technologies to build solid foundations for my future career.</p>
 
-<p align="center">Feel free to leave a feedback on my code, and share suggestions on how I can improve!</p>
+<p>Feel free to leave a feedback on my code, and share suggestions on how I can improve!</p>
 
 <h2>Current Focus:</h3>
 
