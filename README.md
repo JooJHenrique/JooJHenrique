@@ -1,9 +1,8 @@
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Michroma&size=24&pause=1000&color=00674F&center=true&vCenter=true&width=500&lines=Welcome+To+My+Profile!!+(+%5E+_+%5E+)"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=24&duration=4000&pause=1000&color=00674F&center=true&vCenter=true&width=500&lines=Welcome+To+My+Profile!!+(+%5E+_+%5E+)"/>
   </a>
 </h2>
-
 
 <p align="center">I'm a <strong>System Analysis and Development</strong> student trying to find my path in <strong>software and game development</strong>.
 Currently diving deep into programming fundamentals and exploring different technologies to build solid foundations for my future career.<br>
@@ -54,7 +53,7 @@ Feel free to leave a feedback on my code, and share suggestions on how I can imp
   </tr>
 </table>
 
-## **Next on my learning roadmap:**
+<h2><strong>Next on my learning roadmap:</strong></h2>
 
 <table>
   <tr>
@@ -80,6 +79,7 @@ Feel free to leave a feedback on my code, and share suggestions on how I can imp
       <img src="https://skillicons.dev/icons?i=aws" alt="icon-SpringBoot" width="50" height="50"/>
       <br>AWS
     </td>
+  </tr>
   </tr>
 </table>
 
